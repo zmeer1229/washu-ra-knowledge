@@ -1,6 +1,6 @@
 # WashU Resident Advisor knowledge
 
-Unofficial curated summaries and source pointers. Observed 2026-10-22.
+Unofficial original text extracts, curated summaries, and source pointers. Observed 2026-10-22.
 
 ## Entry points
 
@@ -8,7 +8,7 @@ Unofficial curated summaries and source pointers. Observed 2026-10-22.
 - [Coverage](data/coverage.json): completeness and exclusions
 - [Knowledge JSONL](data/knowledge.jsonl): retrieval chunks
 - [Links](data/links.json): resource destinations and access notes
-- [Documents](data/documents.json): exact reference titles, contents not extracted
+- [Documents](data/documents.json): exact titles, extraction status, and content paths
 
 ## Topics
 
@@ -26,3 +26,7 @@ Unofficial curated summaries and source pointers. Observed 2026-10-22.
 - [Duty tools and expectations](topics/duty.md): duty, shift, phone, WhenToWork
 - [Policy and procedure document finder](topics/policies.md): incident, lockout, maintenance, roommate, mediation
 - [Campus resource directory](topics/campus-resources.md): support, health, academic, financial, technology
+
+- [Actual extracted content](CONTENT.md): 14 pages and 50 documents with 20 embedded images
+- [Extraction manifest](data/extractions.json): file provenance, notes, asset paths
+- [Source notes](SOURCE_NOTES.md): errors, historical policy, OCR limits

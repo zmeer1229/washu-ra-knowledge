@@ -1,63 +1,61 @@
 # Document finder
 
-These are reference titles observed in rendered website inventories, not copied document contents. Open the linked source page and locate the exact title. Current source guidance takes priority.
+[Extracted content](CONTENT.md) · [Structured catalog](data/documents.json)
 
-| Title | Category | Source | Coverage |
-| --- | --- | --- | --- |
-| Alcohol.docx | incident | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Active ShooterViolent Intruder.docx | incident | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Bed Bugs.docx | incident | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Bodily Fluids.docx | incident | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Bomb Threat.docx | incident | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Building EvacuationFire Alarm.docx | incident | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Death of a Student.docx | incident | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Bias Incident.docx | incident | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Elevator Malfunction.docx | incident | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Earthquake.docx | incident | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Emotional CrisisSuicide.docx | incident | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Flooding.docx | incident | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Group Disturbances.docx | incident | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Gas Leak.docx | incident | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Hazardous Material Spill.docx | incident | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Laundry Room Outage.docx | incident | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Intoxicated StudentMedical Amnesty.docx | incident | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Lice.docx | incident | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Marijuana and Other Drugs.docx | incident | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Lockdown.docx | incident | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Missing Student.docx | incident | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Mass Injury.docx | incident | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Medical Emergency.docx | incident | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Noise Complaint.docx | incident | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Non-residentUnwanted Guest.docx | incident | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Mold.docx | incident | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Physical ViolenceAssault.docx | incident | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Power Outage.docx | incident | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Property Theft, Damage, or Vandalism.docx | incident | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Relationship Violence.docx | incident | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Sexual Assault or Misconduct.docx | incident | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Student Illness or Injury.docx | incident | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Situations Involving Police.docx | incident | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Temporary Room.docx | incident | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Tornado and Severe Weather Warnings.docx | incident | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Unapproved Animal.docx | incident | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Wellness Check.docx | incident | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Room Condition Reports.docx | incident | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Hard Key Checkout Requests.docx | lockout | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Keytrak System Instructions.docx | lockout | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Homebase.docx | lockout | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Northside Off Campus.docx | lockout | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Northside On Campus.docx | lockout | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| S40 Swipe Doors.docx | lockout | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| How to file maintenance and housekeeping requests.docx | maintenance | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Roommate Agreements.docx | conflict mediation | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Roommate Mediation Presentation.docx | conflict mediation | [policies](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx) | title indexed; contents not extracted |
-| Community Standards & Living Agreements Facilitation Guide Fall 2026.docx | meeting agendas | [community-meetings](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Community-Meetings.aspx) | title indexed; contents not extracted |
-| Upperclass Floor Meeting Fall 2026.docx | meeting agendas | [community-meetings](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Community-Meetings.aspx) | title indexed; contents not extracted |
-| Community Standards 2026 Fillable Document (download or make a copy).docx | meeting agendas | [community-meetings](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Community-Meetings.aspx) | title indexed; contents not extracted |
-| First Year Floor Meeting Agenda for 8.24.docx | meeting agendas | [community-meetings](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Community-Meetings.aspx) | title indexed; contents not extracted |
-| First Year Mini Floor Meeting Agenda- 8.14 & 8.15 1.docx | meeting agendas | [community-meetings](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Community-Meetings.aspx) | title indexed; contents not extracted |
-| Fall 26 Opening Meeting Presentation Template.url | meeting agendas | [community-meetings](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Community-Meetings.aspx) | title indexed; contents not extracted |
-| How to Use When 2 Work | duty | [duty](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/RA%20Duty,%20Policies-and-Procedures.aspx) | resource card indexed; contents not extracted |
-| Phone Expectations | duty | [duty](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/RA%20Duty,%20Policies-and-Procedures.aspx) | resource card indexed; contents not extracted |
-| Northside Duty Expectations | duty | [duty](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/RA%20Duty,%20Policies-and-Procedures.aspx) | resource card indexed; contents not extracted |
-| S40 Duty Expectations | duty | [duty](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/RA%20Duty,%20Policies-and-Procedures.aspx) | resource card indexed; contents not extracted |
+- [Alcohol.docx](content/documents/alcohol.md) — text extracted; see extraction notes
+- [Active ShooterViolent Intruder.docx](content/documents/active-shooterviolent-intruder.md) — text extracted; see extraction notes
+- [Bed Bugs.docx](content/documents/bed-bugs.md) — text extracted; see extraction notes
+- [Bodily Fluids.docx](content/documents/bodily-fluids.md) — text extracted; see extraction notes
+- [Bomb Threat.docx](content/documents/bomb-threat.md) — text extracted; see extraction notes
+- [Building EvacuationFire Alarm.docx](content/documents/building-evacuationfire-alarm.md) — text extracted; see extraction notes
+- [Death of a Student.docx](content/documents/death-of-a-student.md) — text extracted; see extraction notes
+- [Bias Incident.docx](content/documents/bias-incident.md) — text extracted; see extraction notes
+- [Elevator Malfunction.docx](content/documents/elevator-malfunction.md) — text extracted; see extraction notes
+- [Earthquake.docx](content/documents/earthquake.md) — text extracted; see extraction notes
+- [Emotional CrisisSuicide.docx](content/documents/emotional-crisissuicide.md) — text extracted; see extraction notes
+- [Flooding.docx](content/documents/flooding.md) — text extracted; see extraction notes
+- [Group Disturbances.docx](content/documents/group-disturbances.md) — text extracted; see extraction notes
+- [Gas Leak.docx](content/documents/gas-leak.md) — text extracted; see extraction notes
+- [Hazardous Material Spill.docx](content/documents/hazardous-material-spill.md) — text extracted; see extraction notes
+- [Laundry Room Outage.docx](content/documents/laundry-room-outage.md) — text extracted; see extraction notes
+- [Intoxicated StudentMedical Amnesty.docx](content/documents/intoxicated-studentmedical-amnesty.md) — text extracted; see extraction notes
+- [Lice.docx](content/documents/lice.md) — text extracted; see extraction notes
+- [Marijuana and Other Drugs.docx](content/documents/marijuana-and-other-drugs.md) — text extracted; see extraction notes
+- [Lockdown.docx](content/documents/lockdown.md) — text extracted; see extraction notes
+- [Missing Student.docx](content/documents/missing-student.md) — text extracted; see extraction notes
+- [Mass Injury.docx](content/documents/mass-injury.md) — text extracted; see extraction notes
+- [Medical Emergency.docx](content/documents/medical-emergency.md) — text extracted; see extraction notes
+- [Noise Complaint.docx](content/documents/noise-complaint.md) — text extracted; see extraction notes
+- [Non-residentUnwanted Guest.docx](content/documents/non-residentunwanted-guest.md) — text extracted; see extraction notes
+- [Mold.docx](content/documents/mold.md) — text extracted; see extraction notes
+- [Physical ViolenceAssault.docx](content/documents/physical-violenceassault.md) — text extracted; see extraction notes
+- [Power Outage.docx](content/documents/power-outage.md) — text extracted; see extraction notes
+- [Property Theft, Damage, or Vandalism.docx](content/documents/property-theft-damage-or-vandalism.md) — text extracted; see extraction notes
+- [Relationship Violence.docx](content/documents/relationship-violence.md) — text extracted; see extraction notes
+- [Sexual Assault or Misconduct.docx](content/documents/sexual-assault-or-misconduct.md) — text extracted; see extraction notes
+- [Student Illness or Injury.docx](content/documents/student-illness-or-injury.md) — text extracted; see extraction notes
+- [Situations Involving Police.docx](content/documents/situations-involving-police.md) — text extracted; see extraction notes
+- [Temporary Room.docx](content/documents/temporary-room.md) — text extracted; see extraction notes
+- [Tornado and Severe Weather Warnings.docx](content/documents/tornado-and-severe-weather-warnings.md) — text extracted; see extraction notes
+- [Unapproved Animal.docx](content/documents/unapproved-animal.md) — text extracted; see extraction notes
+- [Wellness Check.docx](content/documents/wellness-check.md) — text extracted; see extraction notes
+- [Room Condition Reports.docx](content/documents/room-condition-reports.md) — text extracted; see extraction notes
+- Hard Key Checkout Requests.docx — withheld: building access and key-management procedures
+- Keytrak System Instructions.docx — withheld: building access and key-management procedures
+- Homebase.docx — withheld: building access and key-management procedures
+- Northside Off Campus.docx — withheld: building access and key-management procedures
+- Northside On Campus.docx — withheld: building access and key-management procedures
+- S40 Swipe Doors.docx — withheld: building access and key-management procedures
+- [How to file maintenance and housekeeping requests.docx](content/documents/maintenance-requests.md) — text extracted; see extraction notes
+- [Roommate Agreements.docx](content/documents/roommate-agreements.md) — text extracted; see extraction notes
+- [Roommate Mediation Presentation.docx](content/documents/roommate-mediation-presentation.md) — text extracted; see extraction notes
+- [Community Standards & Living Agreements Facilitation Guide Fall 2026.docx](content/documents/community-standards-living-agreements-facilitation-guide-fall-2026.md) — text extracted; see extraction notes
+- [Upperclass Floor Meeting Fall 2026.docx](content/documents/upperclass-floor-meeting-fall-2026.md) — text extracted; see extraction notes
+- [Community Standards 2026 Fillable Document (download or make a copy).docx](content/documents/community-standards-2026-fillable-document-download-or-make-a-copy.md) — text extracted; see extraction notes
+- [First Year Floor Meeting Agenda for 8.24.docx](content/documents/first-year-floor-meeting-agenda-for-8-24.md) — text extracted; see extraction notes
+- [First Year Mini Floor Meeting Agenda- 8.14 & 8.15 1.docx](content/documents/first-year-mini-floor-meeting-agenda-8-14-8-15-1.md) — text extracted; see extraction notes
+- Fall 26 Opening Meeting Presentation Template.url — reference only; linked presentation contents not extracted
+- [How to Use When 2 Work](content/documents/schedule-browser.md) — text extracted; see extraction notes
+- [Phone Expectations](content/documents/phone-browser.md) — text extracted; see extraction notes
+- [Northside Duty Expectations](content/documents/north-browser.md) — text extracted; see extraction notes
+- [S40 Duty Expectations](content/documents/south-browser.md) — text extracted; see extraction notes

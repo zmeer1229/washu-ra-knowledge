@@ -1,9 +1,3 @@
-# RA role and communication standards
-
-Source: [About Being an RA](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/About-Being-an-RA.aspx)  
-Observed: 2026-10-22  
-Coverage: paraphrased page guidance and resource references; not the full underlying files.
-
 ## Daily communication
 
 - Review university email and Microsoft Teams at least daily.
@@ -21,3 +15,7 @@ The source says RAs should not represent Residential Life or the university in m
 ## Other role materials
 
 The page identifies job descriptions, expectations, work agreements, evaluation materials, and accountability information as its scope. Those underlying documents have not been transcribed here; consult the source for them.
+
+## Original extracted content
+
+See [the content index](../CONTENT.md) for page and document text. Earlier title-only coverage notes describe the initial summary pass; current extraction status is in data/documents.json.

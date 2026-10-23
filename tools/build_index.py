@@ -35,6 +35,16 @@ def build():
                        'path':'DOCUMENTS.md','source_ids':[doc['source_id']],'source_url':doc['source_url'],
                        'observed_on':doc['observed_on'],'tags':[doc['category']],
                        'coverage':doc['content_status']})
+    for item in load('extractions.json'):
+        text = (ROOT/item['path']).read_text(encoding='utf-8')
+        # Bounded overlapping text windows preserve table cells and long paragraphs.
+        for offset in range(0, len(text), 2200):
+            section = text[offset:offset+2500]
+            chunks.append({'id':item['id']+'-'+str(offset),'kind':item['kind'],
+                           'title':item['title'],'text':section,'path':item['path'],
+                           'source_ids':[item['source_id']],'source_url':item['source_url'],
+                           'observed_on':item['observed_on'],'tags':[item['kind']],
+                           'coverage':item['status'],'character_offset':offset})
     (ROOT/'data'/'knowledge.jsonl').write_text(''.join(json.dumps(c,ensure_ascii=False,sort_keys=True)+'\n' for c in chunks),encoding='utf-8')
     print(f'Built {len(chunks)} retrieval chunks.')
     return chunks

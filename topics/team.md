@@ -1,9 +1,3 @@
-# Residential Life mission and support
-
-Source: [Meet the Residential Life Team](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Meet-the-Residential-Life-Team.aspx)  
-Observed: 2026-10-22  
-Coverage: paraphrased page guidance and resource references; not the full underlying files.
-
 ## Mission
 
 Residential Life aims to provide an inclusive, safe environment that supports learning and personal development, while improving services for students and guests.
@@ -17,3 +11,7 @@ Residential Life aims to provide an inclusive, safe environment that supports le
 ## Finding people
 
 The original directory contains the leadership team and faculty partners. Use it for current names, roles, and community assignments; this public collection does not replicate personal contact details or staff profiles.
+
+## Original extracted content
+
+See [the content index](../CONTENT.md) for page and document text. Earlier title-only coverage notes describe the initial summary pass; current extraction status is in data/documents.json.

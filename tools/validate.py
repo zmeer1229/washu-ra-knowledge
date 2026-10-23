@@ -28,7 +28,17 @@ def main():
     assert len(chunks)==len({x['id'] for x in chunks})
     assert all(set(x['source_ids']) <= sources for x in chunks)
     for doc in data['documents.json']:
-        assert 'not extracted' in doc['content_status']
+        assert doc['content_status']
+        if doc.get('content_path'):
+            assert (ROOT/doc['content_path']).is_file(),doc
+    extracts=data['extractions.json']
+    assert sum(x['kind']=='page_extract' for x in extracts)==14
+    assert sum(x['kind']=='document_extract' for x in extracts)==50
+    assert sum(len(x.get('assets',[])) for x in extracts)==20
+    assert sum('withheld' in x['content_status'] for x in data['documents.json'])==6
+    for item in extracts:
+        assert item['source_id'] in sources and (ROOT/item['path']).is_file()
+        assert all((ROOT/p).is_file() for p in item.get('assets',[]))
     for p in ROOT.rglob('*.md'):
         for target in re.findall(r'\]\(([^)]+)\)',p.read_text(encoding='utf-8')):
             if re.match(r'https?://',target):continue
@@ -44,7 +54,7 @@ def main():
         assert '"snapshot":' not in text and '"headings":' not in text,p
         assert not re.search(r'Homebase code[^\n]*:\s*[A-Z0-9]{5,}',text),p
     from search import search
-    for query,wanted in [('roommate mediation','document_reference'),('winter meeting','topic_summary'),('maintenance','link')]:
+    for query,wanted in [('roommate mediation','document_reference'),('winter meeting','topic_summary'),('maintenance','link'),('LARA','document_extract'),('Trading Shifts','document_extract')]:
         results=search(query,20)
         assert results and any(x['kind']==wanted for x in results),(query,wanted)
     print(f'Validated {len(data["topics.json"])} topics, {len(data["links.json"])} links, {len(data["documents.json"])} document references, {len(chunks)} retrieval chunks, provenance, and local links.')

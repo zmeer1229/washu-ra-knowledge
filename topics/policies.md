@@ -1,9 +1,3 @@
-# Policy and procedure document finder
-
-Source: [Policies and Procedures](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx)  
-Observed: 2026-10-22  
-Coverage: paraphrased page guidance and resource references; not the full underlying files.
-
 ## Finding the applicable guidance
 
 The policy page groups reference documents under Incident Protocols, Lockout Protocols, Maintenance Issues, and Conflict Mediation. The document catalog lists the titles observed in those groups.
@@ -20,6 +14,6 @@ The inventory covers medical and emotional crises, fire and evacuation, severe w
 
 The page also links AED, emergency-bag, and incident-report resources. This collection provides source routing only for access controls and emergency details. Consult the current official documents and supervising staff; no emergency, medical, legal, or building-entry procedure is reconstructed from titles.
 
-## Source links and tools
+## Original extracted content
 
-- [Incident Report](https://cm.maxient.com/washu) — destination may require institutional login; destination contents not verified
+See [the content index](../CONTENT.md) for page and document text. Earlier title-only coverage notes describe the initial summary pass; current extraction status is in data/documents.json.

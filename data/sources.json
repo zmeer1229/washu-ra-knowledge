@@ -5,7 +5,7 @@
     "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/TopicHome.aspx",
     "observed_on": "2026-10-22",
     "access": "WashU authentication may be required",
-    "coverage": "inventory/duplicate landing page",
+    "coverage": "page/document text extracted with documented exclusions; see data/extractions.json",
     "original_files_copied": false
   },
   {
@@ -23,7 +23,7 @@
     "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Meet-the-Residential-Life-Team.aspx",
     "observed_on": "2026-10-22",
     "access": "WashU authentication may be required",
-    "coverage": "summary and resource index",
+    "coverage": "page/document text extracted with documented exclusions; see data/extractions.json",
     "original_files_copied": false
   },
   {
@@ -32,7 +32,7 @@
     "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/RA-Training-HUB.aspx",
     "observed_on": "2026-10-22",
     "access": "WashU authentication may be required",
-    "coverage": "summary and resource index",
+    "coverage": "page/document text extracted with documented exclusions; see data/extractions.json",
     "original_files_copied": false
   },
   {
@@ -41,7 +41,7 @@
     "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/All-You-Need-to-Program!.aspx",
     "observed_on": "2026-10-22",
     "access": "WashU authentication may be required",
-    "coverage": "summary and resource index",
+    "coverage": "page/document text extracted with documented exclusions; see data/extractions.json",
     "original_files_copied": false
   },
   {
@@ -50,7 +50,7 @@
     "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/RA%20Duty,%20Policies-and-Procedures.aspx",
     "observed_on": "2026-10-22",
     "access": "WashU authentication may be required",
-    "coverage": "summary and resource index",
+    "coverage": "page/document text extracted with documented exclusions; see data/extractions.json",
     "original_files_copied": false
   },
   {
@@ -59,7 +59,7 @@
     "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Campus-Resources.aspx",
     "observed_on": "2026-10-22",
     "access": "WashU authentication may be required",
-    "coverage": "inventory/duplicate landing page",
+    "coverage": "page/document text extracted with documented exclusions; see data/extractions.json",
     "original_files_copied": false
   },
   {
@@ -68,7 +68,7 @@
     "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/About-Being-an-RA.aspx",
     "observed_on": "2026-10-22",
     "access": "WashU authentication may be required",
-    "coverage": "summary and resource index",
+    "coverage": "page/document text extracted with documented exclusions; see data/extractions.json",
     "original_files_copied": false
   },
   {
@@ -77,7 +77,7 @@
     "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Bulletin-Boards-and-Door-Decorations.aspx",
     "observed_on": "2026-10-22",
     "access": "WashU authentication may be required",
-    "coverage": "summary and resource index",
+    "coverage": "page/document text extracted with documented exclusions; see data/extractions.json",
     "original_files_copied": false
   },
   {
@@ -86,7 +86,7 @@
     "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Branding-Guidelines-Learn-More.aspx",
     "observed_on": "2026-10-22",
     "access": "WashU authentication may be required",
-    "coverage": "summary and resource index",
+    "coverage": "page/document text extracted with documented exclusions; see data/extractions.json",
     "original_files_copied": false
   },
   {
@@ -95,7 +95,7 @@
     "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Program-Planning.aspx",
     "observed_on": "2026-10-22",
     "access": "WashU authentication may be required",
-    "coverage": "summary and resource index",
+    "coverage": "page/document text extracted with documented exclusions; see data/extractions.json",
     "original_files_copied": false
   },
   {
@@ -104,7 +104,7 @@
     "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Community-Meetings.aspx",
     "observed_on": "2026-10-22",
     "access": "WashU authentication may be required",
-    "coverage": "summary and resource index",
+    "coverage": "page/document text extracted with documented exclusions; see data/extractions.json",
     "original_files_copied": false
   },
   {
@@ -113,7 +113,7 @@
     "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Meeting-Agendas.aspx",
     "observed_on": "2026-10-22",
     "access": "WashU authentication may be required",
-    "coverage": "summary and resource index",
+    "coverage": "page/document text extracted with documented exclusions; see data/extractions.json",
     "original_files_copied": false
   },
   {
@@ -122,7 +122,7 @@
     "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Expense-Reports.aspx",
     "observed_on": "2026-10-22",
     "access": "WashU authentication may be required",
-    "coverage": "summary and resource index",
+    "coverage": "page/document text extracted with documented exclusions; see data/extractions.json",
     "original_files_copied": false
   },
   {
@@ -131,7 +131,7 @@
     "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
     "observed_on": "2026-10-22",
     "access": "WashU authentication may be required",
-    "coverage": "summary and resource index",
+    "coverage": "page/document text extracted with documented exclusions; see data/extractions.json",
     "original_files_copied": false
   },
   {

@@ -23,15 +23,15 @@
   "links": 83,
   "document_references": 57,
   "method": "Read rendered SharePoint pages and inventories using the signed-in browser. No hidden APIs, cookies, or authentication tokens were exported.",
-  "scope": "All 15 listed Site Pages were opened, including the duplicate landing page and default SharePoint template. Useful page guidance summarized; linked document titles indexed.",
+  "scope": "All 15 listed Site Pages opened; 14 substantive pages extracted with documented exclusions. Downloaded Word text and four browser-rendered duty guides extracted.",
   "not_a_complete_mirror": true,
   "limitations": [
-    "Full DOCX/PDF/presentation/Box contents were not extracted.",
+    "50 Word document text extracts published; six access-control documents withheld; one linked presentation remains a reference. Text extraction limits documented per file.",
     "Videos were not transcribed.",
     "Document library view labeled All Documents remained filtered to Incident; no claim of a complete library inventory.",
     "No full Teams message export.",
     "No recursive crawl of external resource sites.",
-    "Anchor and Passive Program List links reported unavailable in the current Box session. Active Program List contents were not inspected.",
+    "Anchor, Passive, and Active Program List links all reported removed or unavailable in the current Box session.",
     "Historical August calendar entries were not exported; the displayed October week had zero events."
   ],
   "excluded_from_publication": [
@@ -43,5 +43,8 @@
     "Box shared access URLs and opaque reservation parameters",
     "default SharePoint template copy"
   ],
-  "notes": "Public repo contains curated summaries and authenticated source pointers. It does not grant access to the original restricted sources."
+  "notes": "Original text plus curated summaries, searchable chunks, provenance, and authenticated source pointers. See CONTENT.md and SOURCE_NOTES.md.",
+  "page_text_extracts": 14,
+  "document_text_extracts": 50,
+  "embedded_images_published": 20
 }

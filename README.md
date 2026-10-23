@@ -2,7 +2,7 @@
 
 Unofficial, public reference guide compiled from the WashU Resident Advisors website on **2026-10-22**. Organized for human reading, search, and AI retrieval.
 
-This collection contains **14 topic guides, 83 link entries, 57 document references, and all 30 campus resources listed on the campus resource page**. It summarizes useful page guidance and points to original sources. It is not a complete copy of the website or its files.
+This collection includes **14 page text extracts, 50 document text extracts, 20 embedded images, 14 topic guides, 83 links, and 57 document catalog entries**. Start with the [actual extracted content](CONTENT.md), or search the AI retrieval index. Source text and OCR include explicit provenance and extraction limits.
 
 ## Start here
 
@@ -36,7 +36,7 @@ Use [LINKS.md](LINKS.md) for clickable resources and [DOCUMENTS.md](DOCUMENTS.md
 
 ## Coverage and access
 
-All 15 entries in the Site Pages inventory were opened. One is a default SharePoint template and another duplicates the landing-page content. Detailed linked files, videos, historical schedules, and Teams messages are **not** fully exported. The Anchor and Passive program-list targets reported unavailable in the current session. [Coverage metadata](data/coverage.json) describes these limits precisely.
+All 15 entries in the Site Pages inventory were opened. One is a default SharePoint template and another duplicates the landing-page content. Word files from the five document-library categories and four duty guides were extracted; six access-control files are withheld. Videos, historical schedules, external sites, and Teams messages are **not** fully exported. The Anchor, Passive, and Active program-list targets reported unavailable in the current session. [Coverage metadata](data/coverage.json) describes these limits precisely.
 
 Some original sources require WashU authorization. This repository does not grant it. Access codes, personal records, contact details, accounting values, and shared access links are omitted. Keep private resident information out of issues, pull requests, and AI prompts.
 

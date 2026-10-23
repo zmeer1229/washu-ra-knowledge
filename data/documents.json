@@ -5,9 +5,13 @@
     "category": "incident",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/alcohol.md",
+    "embedded_image_paths": [
+      "assets/alcohol/image1.png"
+    ]
   },
   {
     "id": "doc-002",
@@ -15,9 +19,11 @@
     "category": "incident",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/active-shooterviolent-intruder.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-003",
@@ -25,9 +31,13 @@
     "category": "incident",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/bed-bugs.md",
+    "embedded_image_paths": [
+      "assets/bed-bugs/image1.png"
+    ]
   },
   {
     "id": "doc-004",
@@ -35,9 +45,11 @@
     "category": "incident",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/bodily-fluids.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-005",
@@ -45,9 +57,11 @@
     "category": "incident",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/bomb-threat.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-006",
@@ -55,9 +69,11 @@
     "category": "incident",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/building-evacuationfire-alarm.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-007",
@@ -65,9 +81,11 @@
     "category": "incident",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/death-of-a-student.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-008",
@@ -75,9 +93,11 @@
     "category": "incident",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/bias-incident.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-009",
@@ -85,9 +105,11 @@
     "category": "incident",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/elevator-malfunction.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-010",
@@ -95,9 +117,11 @@
     "category": "incident",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/earthquake.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-011",
@@ -105,9 +129,11 @@
     "category": "incident",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/emotional-crisissuicide.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-012",
@@ -115,9 +141,13 @@
     "category": "incident",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/flooding.md",
+    "embedded_image_paths": [
+      "assets/flooding/image1.png"
+    ]
   },
   {
     "id": "doc-013",
@@ -125,9 +155,11 @@
     "category": "incident",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/group-disturbances.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-014",
@@ -135,9 +167,11 @@
     "category": "incident",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/gas-leak.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-015",
@@ -145,9 +179,11 @@
     "category": "incident",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/hazardous-material-spill.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-016",
@@ -155,9 +191,11 @@
     "category": "incident",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/laundry-room-outage.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-017",
@@ -165,9 +203,11 @@
     "category": "incident",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/intoxicated-studentmedical-amnesty.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-018",
@@ -175,9 +215,11 @@
     "category": "incident",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/lice.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-019",
@@ -185,9 +227,13 @@
     "category": "incident",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/marijuana-and-other-drugs.md",
+    "embedded_image_paths": [
+      "assets/marijuana-and-other-drugs/image1.png"
+    ]
   },
   {
     "id": "doc-020",
@@ -195,9 +241,11 @@
     "category": "incident",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/lockdown.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-021",
@@ -205,9 +253,11 @@
     "category": "incident",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/missing-student.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-022",
@@ -215,9 +265,11 @@
     "category": "incident",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/mass-injury.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-023",
@@ -225,9 +277,11 @@
     "category": "incident",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/medical-emergency.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-024",
@@ -235,9 +289,11 @@
     "category": "incident",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/noise-complaint.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-025",
@@ -245,9 +301,11 @@
     "category": "incident",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/non-residentunwanted-guest.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-026",
@@ -255,9 +313,11 @@
     "category": "incident",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/mold.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-027",
@@ -265,9 +325,11 @@
     "category": "incident",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/physical-violenceassault.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-028",
@@ -275,9 +337,11 @@
     "category": "incident",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/power-outage.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-029",
@@ -285,9 +349,11 @@
     "category": "incident",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/property-theft-damage-or-vandalism.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-030",
@@ -295,9 +361,11 @@
     "category": "incident",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/relationship-violence.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-031",
@@ -305,9 +373,11 @@
     "category": "incident",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/sexual-assault-or-misconduct.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-032",
@@ -315,9 +385,11 @@
     "category": "incident",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/student-illness-or-injury.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-033",
@@ -325,9 +397,11 @@
     "category": "incident",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/situations-involving-police.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-034",
@@ -335,9 +409,11 @@
     "category": "incident",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/temporary-room.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-035",
@@ -345,9 +421,11 @@
     "category": "incident",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/tornado-and-severe-weather-warnings.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-036",
@@ -355,9 +433,11 @@
     "category": "incident",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/unapproved-animal.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-037",
@@ -365,9 +445,11 @@
     "category": "incident",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/wellness-check.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-038",
@@ -375,9 +457,11 @@
     "category": "incident",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/room-condition-reports.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-039",
@@ -385,7 +469,7 @@
     "category": "lockout",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "withheld: building access and key-management procedures",
     "access": "open authenticated source page and find this exact title",
     "observed_on": "2026-10-22"
   },
@@ -395,7 +479,7 @@
     "category": "lockout",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "withheld: building access and key-management procedures",
     "access": "open authenticated source page and find this exact title",
     "observed_on": "2026-10-22"
   },
@@ -405,7 +489,7 @@
     "category": "lockout",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "withheld: building access and key-management procedures",
     "access": "open authenticated source page and find this exact title",
     "observed_on": "2026-10-22"
   },
@@ -415,7 +499,7 @@
     "category": "lockout",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "withheld: building access and key-management procedures",
     "access": "open authenticated source page and find this exact title",
     "observed_on": "2026-10-22"
   },
@@ -425,7 +509,7 @@
     "category": "lockout",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "withheld: building access and key-management procedures",
     "access": "open authenticated source page and find this exact title",
     "observed_on": "2026-10-22"
   },
@@ -435,7 +519,7 @@
     "category": "lockout",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "withheld: building access and key-management procedures",
     "access": "open authenticated source page and find this exact title",
     "observed_on": "2026-10-22"
   },
@@ -445,9 +529,11 @@
     "category": "maintenance",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/maintenance-requests.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-046",
@@ -455,9 +541,11 @@
     "category": "conflict mediation",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/roommate-agreements.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-047",
@@ -465,9 +553,28 @@
     "category": "conflict mediation",
     "source_id": "policies",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/roommate-mediation-presentation.md",
+    "embedded_image_paths": [
+      "assets/roommate-mediation-presentation/image1.png",
+      "assets/roommate-mediation-presentation/image2.png",
+      "assets/roommate-mediation-presentation/image3.png",
+      "assets/roommate-mediation-presentation/image4.png",
+      "assets/roommate-mediation-presentation/image5.png",
+      "assets/roommate-mediation-presentation/image6.png",
+      "assets/roommate-mediation-presentation/image7.png",
+      "assets/roommate-mediation-presentation/image8.png",
+      "assets/roommate-mediation-presentation/image9.png",
+      "assets/roommate-mediation-presentation/image10.png",
+      "assets/roommate-mediation-presentation/image11.png",
+      "assets/roommate-mediation-presentation/image12.png",
+      "assets/roommate-mediation-presentation/image13.png",
+      "assets/roommate-mediation-presentation/image14.png",
+      "assets/roommate-mediation-presentation/image15.png",
+      "assets/roommate-mediation-presentation/image16.png"
+    ]
   },
   {
     "id": "doc-048",
@@ -475,9 +582,11 @@
     "category": "meeting agendas",
     "source_id": "community-meetings",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Community-Meetings.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/community-standards-living-agreements-facilitation-guide-fall-2026.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-049",
@@ -485,9 +594,11 @@
     "category": "meeting agendas",
     "source_id": "community-meetings",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Community-Meetings.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/upperclass-floor-meeting-fall-2026.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-050",
@@ -495,9 +606,11 @@
     "category": "meeting agendas",
     "source_id": "community-meetings",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Community-Meetings.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/community-standards-2026-fillable-document-download-or-make-a-copy.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-051",
@@ -505,9 +618,11 @@
     "category": "meeting agendas",
     "source_id": "community-meetings",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Community-Meetings.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/first-year-floor-meeting-agenda-for-8-24.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-052",
@@ -515,9 +630,11 @@
     "category": "meeting agendas",
     "source_id": "community-meetings",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Community-Meetings.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page and find this exact title",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/first-year-mini-floor-meeting-agenda-8-14-8-15-1.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-053",
@@ -525,7 +642,7 @@
     "category": "meeting agendas",
     "source_id": "community-meetings",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Community-Meetings.aspx",
-    "content_status": "title indexed; contents not extracted",
+    "content_status": "reference only; linked presentation contents not extracted",
     "access": "open authenticated source page and find this exact title",
     "observed_on": "2026-10-22"
   },
@@ -535,9 +652,11 @@
     "category": "duty",
     "source_id": "duty",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/RA%20Duty,%20Policies-and-Procedures.aspx",
-    "content_status": "resource card indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/schedule-browser.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-055",
@@ -545,9 +664,11 @@
     "category": "duty",
     "source_id": "duty",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/RA%20Duty,%20Policies-and-Procedures.aspx",
-    "content_status": "resource card indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/phone-browser.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-056",
@@ -555,9 +676,11 @@
     "category": "duty",
     "source_id": "duty",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/RA%20Duty,%20Policies-and-Procedures.aspx",
-    "content_status": "resource card indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/north-browser.md",
+    "embedded_image_paths": []
   },
   {
     "id": "doc-057",
@@ -565,8 +688,10 @@
     "category": "duty",
     "source_id": "duty",
     "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/RA%20Duty,%20Policies-and-Procedures.aspx",
-    "content_status": "resource card indexed; contents not extracted",
+    "content_status": "text extracted; see extraction notes",
     "access": "open authenticated source page",
-    "observed_on": "2026-10-22"
+    "observed_on": "2026-10-22",
+    "content_path": "content/documents/south-browser.md",
+    "embedded_image_paths": []
   }
 ]

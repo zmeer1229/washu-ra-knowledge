@@ -1,9 +1,3 @@
-# Bulletin boards and door decorations
-
-Source: [Bulletin Boards and Door Decorations](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Bulletin-Boards-and-Door-Decorations.aspx)  
-Observed: 2026-10-22  
-Coverage: paraphrased page guidance and resource references; not the full underlying files.
-
 ## Working with supplied boards
 
 The source instructs RAs to keep the content of supplied bulletin boards intact and consult their supervisor about permitted theme changes and visual expectations.
@@ -27,3 +21,7 @@ The lower levels identify missing or inconsistent themes, weak presentation, har
 ## Supporting resources
 
 The source links to a bulletin-board photo upload destination, Fall Welcome Board, Campus Partner Bulletin Board Resources, Winter Transition Board, and Spring Closing Board. Shared access links are routed through the source page in this public repository.
+
+## Original extracted content
+
+See [the content index](../CONTENT.md) for page and document text. Earlier title-only coverage notes describe the initial summary pass; current extraction status is in data/documents.json.

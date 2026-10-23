@@ -1,0 +1,964 @@
+[
+  {
+    "id": "page-topic-home",
+    "kind": "page_extract",
+    "title": "WashU Resident Advisors - Home",
+    "path": "content/pages/topic-home.md",
+    "source_id": "topic-home",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/TopicHome.aspx",
+    "observed_on": "2026-10-22",
+    "status": "extracted with documented exclusions",
+    "notes": [
+      "Browser navigation, reaction controls, author bylines, and icon glyphs removed. Flattened tables retain source reading order."
+    ]
+  },
+  {
+    "id": "page-team",
+    "kind": "page_extract",
+    "title": "Meet the Residential Life Team",
+    "path": "content/pages/team.md",
+    "source_id": "team",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Meet-the-Residential-Life-Team.aspx",
+    "observed_on": "2026-10-22",
+    "status": "extracted with documented exclusions",
+    "notes": [
+      "Browser navigation, reaction controls, author bylines, and icon glyphs removed. Flattened tables retain source reading order.",
+      "Staff/faculty profiles omitted from public output."
+    ]
+  },
+  {
+    "id": "page-training",
+    "kind": "page_extract",
+    "title": "RA Training HUB",
+    "path": "content/pages/training.md",
+    "source_id": "training",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/RA-Training-HUB.aspx",
+    "observed_on": "2026-10-22",
+    "status": "extracted with documented exclusions",
+    "notes": [
+      "Browser navigation, reaction controls, author bylines, and icon glyphs removed. Flattened tables retain source reading order.",
+      "Embedded video and historical calendar contents not exported."
+    ]
+  },
+  {
+    "id": "page-programming",
+    "kind": "page_extract",
+    "title": "All You Need to Program!",
+    "path": "content/pages/programming.md",
+    "source_id": "programming",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/All-You-Need-to-Program!.aspx",
+    "observed_on": "2026-10-22",
+    "status": "extracted with documented exclusions",
+    "notes": [
+      "Browser navigation, reaction controls, author bylines, and icon glyphs removed. Flattened tables retain source reading order.",
+      "Resource-room access code omitted."
+    ]
+  },
+  {
+    "id": "page-duty",
+    "kind": "page_extract",
+    "title": "RA Duty, Policies, and Procedures",
+    "path": "content/pages/duty.md",
+    "source_id": "duty",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/RA%20Duty,%20Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "extracted with documented exclusions",
+    "notes": [
+      "Browser navigation, reaction controls, author bylines, and icon glyphs removed. Flattened tables retain source reading order."
+    ]
+  },
+  {
+    "id": "page-campus-resources",
+    "kind": "page_extract",
+    "title": "Campus Resources",
+    "path": "content/pages/campus-resources.md",
+    "source_id": "campus-resources",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Campus-Resources.aspx",
+    "observed_on": "2026-10-22",
+    "status": "extracted with documented exclusions",
+    "notes": [
+      "Browser navigation, reaction controls, author bylines, and icon glyphs removed. Flattened tables retain source reading order."
+    ]
+  },
+  {
+    "id": "page-about-ra",
+    "kind": "page_extract",
+    "title": "About Being an RA",
+    "path": "content/pages/about-ra.md",
+    "source_id": "about-ra",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/About-Being-an-RA.aspx",
+    "observed_on": "2026-10-22",
+    "status": "extracted with documented exclusions",
+    "notes": [
+      "Browser navigation, reaction controls, author bylines, and icon glyphs removed. Flattened tables retain source reading order."
+    ]
+  },
+  {
+    "id": "page-bulletin-boards",
+    "kind": "page_extract",
+    "title": "Bulletin Boards and Door Decorations",
+    "path": "content/pages/bulletin-boards.md",
+    "source_id": "bulletin-boards",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Bulletin-Boards-and-Door-Decorations.aspx",
+    "observed_on": "2026-10-22",
+    "status": "extracted with documented exclusions",
+    "notes": [
+      "Browser navigation, reaction controls, author bylines, and icon glyphs removed. Flattened tables retain source reading order."
+    ]
+  },
+  {
+    "id": "page-branding",
+    "kind": "page_extract",
+    "title": "Branding Guidelines Learn More",
+    "path": "content/pages/branding.md",
+    "source_id": "branding",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Branding-Guidelines-Learn-More.aspx",
+    "observed_on": "2026-10-22",
+    "status": "extracted with documented exclusions",
+    "notes": [
+      "Browser navigation, reaction controls, author bylines, and icon glyphs removed. Flattened tables retain source reading order."
+    ]
+  },
+  {
+    "id": "page-program-planning",
+    "kind": "page_extract",
+    "title": "Program Planning",
+    "path": "content/pages/program-planning.md",
+    "source_id": "program-planning",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Program-Planning.aspx",
+    "observed_on": "2026-10-22",
+    "status": "extracted with documented exclusions",
+    "notes": [
+      "Browser navigation, reaction controls, author bylines, and icon glyphs removed. Flattened tables retain source reading order."
+    ]
+  },
+  {
+    "id": "page-community-meetings",
+    "kind": "page_extract",
+    "title": "Community Meetings",
+    "path": "content/pages/community-meetings.md",
+    "source_id": "community-meetings",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Community-Meetings.aspx",
+    "observed_on": "2026-10-22",
+    "status": "extracted with documented exclusions",
+    "notes": [
+      "Browser navigation, reaction controls, author bylines, and icon glyphs removed. Flattened tables retain source reading order."
+    ]
+  },
+  {
+    "id": "page-meeting-agendas",
+    "kind": "page_extract",
+    "title": "Meeting Agendas",
+    "path": "content/pages/meeting-agendas.md",
+    "source_id": "meeting-agendas",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Meeting-Agendas.aspx",
+    "observed_on": "2026-10-22",
+    "status": "extracted with documented exclusions",
+    "notes": [
+      "Browser navigation, reaction controls, author bylines, and icon glyphs removed. Flattened tables retain source reading order."
+    ]
+  },
+  {
+    "id": "page-expense-reports",
+    "kind": "page_extract",
+    "title": "Expense Reports",
+    "path": "content/pages/expense-reports.md",
+    "source_id": "expense-reports",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Expense-Reports.aspx",
+    "observed_on": "2026-10-22",
+    "status": "extracted with documented exclusions",
+    "notes": [
+      "Browser navigation, reaction controls, author bylines, and icon glyphs removed. Flattened tables retain source reading order.",
+      "Video not transcribed; accounting values not included."
+    ]
+  },
+  {
+    "id": "page-policies",
+    "kind": "page_extract",
+    "title": "Policies and Procedures",
+    "path": "content/pages/policies.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "extracted with documented exclusions",
+    "notes": [
+      "Browser navigation, reaction controls, author bylines, and icon glyphs removed. Flattened tables retain source reading order.",
+      "Library controls and file titles are page text, not document contents; see document extracts."
+    ]
+  },
+  {
+    "id": "extract-doc-001",
+    "kind": "document_extract",
+    "title": "Alcohol.docx",
+    "path": "content/documents/alcohol.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": [
+      "assets/alcohol/image1.png"
+    ]
+  },
+  {
+    "id": "extract-doc-002",
+    "kind": "document_extract",
+    "title": "Active ShooterViolent Intruder.docx",
+    "path": "content/documents/active-shooterviolent-intruder.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-003",
+    "kind": "document_extract",
+    "title": "Bed Bugs.docx",
+    "path": "content/documents/bed-bugs.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": [
+      "assets/bed-bugs/image1.png"
+    ]
+  },
+  {
+    "id": "extract-doc-004",
+    "kind": "document_extract",
+    "title": "Bodily Fluids.docx",
+    "path": "content/documents/bodily-fluids.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-005",
+    "kind": "document_extract",
+    "title": "Bomb Threat.docx",
+    "path": "content/documents/bomb-threat.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-006",
+    "kind": "document_extract",
+    "title": "Building EvacuationFire Alarm.docx",
+    "path": "content/documents/building-evacuationfire-alarm.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-007",
+    "kind": "document_extract",
+    "title": "Death of a Student.docx",
+    "path": "content/documents/death-of-a-student.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-008",
+    "kind": "document_extract",
+    "title": "Bias Incident.docx",
+    "path": "content/documents/bias-incident.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-009",
+    "kind": "document_extract",
+    "title": "Elevator Malfunction.docx",
+    "path": "content/documents/elevator-malfunction.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-010",
+    "kind": "document_extract",
+    "title": "Earthquake.docx",
+    "path": "content/documents/earthquake.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-011",
+    "kind": "document_extract",
+    "title": "Emotional CrisisSuicide.docx",
+    "path": "content/documents/emotional-crisissuicide.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-012",
+    "kind": "document_extract",
+    "title": "Flooding.docx",
+    "path": "content/documents/flooding.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": [
+      "assets/flooding/image1.png"
+    ]
+  },
+  {
+    "id": "extract-doc-013",
+    "kind": "document_extract",
+    "title": "Group Disturbances.docx",
+    "path": "content/documents/group-disturbances.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-014",
+    "kind": "document_extract",
+    "title": "Gas Leak.docx",
+    "path": "content/documents/gas-leak.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-015",
+    "kind": "document_extract",
+    "title": "Hazardous Material Spill.docx",
+    "path": "content/documents/hazardous-material-spill.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-016",
+    "kind": "document_extract",
+    "title": "Laundry Room Outage.docx",
+    "path": "content/documents/laundry-room-outage.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-017",
+    "kind": "document_extract",
+    "title": "Intoxicated StudentMedical Amnesty.docx",
+    "path": "content/documents/intoxicated-studentmedical-amnesty.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-018",
+    "kind": "document_extract",
+    "title": "Lice.docx",
+    "path": "content/documents/lice.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-019",
+    "kind": "document_extract",
+    "title": "Marijuana and Other Drugs.docx",
+    "path": "content/documents/marijuana-and-other-drugs.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": [
+      "assets/marijuana-and-other-drugs/image1.png"
+    ]
+  },
+  {
+    "id": "extract-doc-020",
+    "kind": "document_extract",
+    "title": "Lockdown.docx",
+    "path": "content/documents/lockdown.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-021",
+    "kind": "document_extract",
+    "title": "Missing Student.docx",
+    "path": "content/documents/missing-student.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-022",
+    "kind": "document_extract",
+    "title": "Mass Injury.docx",
+    "path": "content/documents/mass-injury.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-023",
+    "kind": "document_extract",
+    "title": "Medical Emergency.docx",
+    "path": "content/documents/medical-emergency.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-024",
+    "kind": "document_extract",
+    "title": "Noise Complaint.docx",
+    "path": "content/documents/noise-complaint.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-025",
+    "kind": "document_extract",
+    "title": "Non-residentUnwanted Guest.docx",
+    "path": "content/documents/non-residentunwanted-guest.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-026",
+    "kind": "document_extract",
+    "title": "Mold.docx",
+    "path": "content/documents/mold.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-027",
+    "kind": "document_extract",
+    "title": "Physical ViolenceAssault.docx",
+    "path": "content/documents/physical-violenceassault.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-028",
+    "kind": "document_extract",
+    "title": "Power Outage.docx",
+    "path": "content/documents/power-outage.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-029",
+    "kind": "document_extract",
+    "title": "Property Theft, Damage, or Vandalism.docx",
+    "path": "content/documents/property-theft-damage-or-vandalism.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-030",
+    "kind": "document_extract",
+    "title": "Relationship Violence.docx",
+    "path": "content/documents/relationship-violence.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-031",
+    "kind": "document_extract",
+    "title": "Sexual Assault or Misconduct.docx",
+    "path": "content/documents/sexual-assault-or-misconduct.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-032",
+    "kind": "document_extract",
+    "title": "Student Illness or Injury.docx",
+    "path": "content/documents/student-illness-or-injury.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-033",
+    "kind": "document_extract",
+    "title": "Situations Involving Police.docx",
+    "path": "content/documents/situations-involving-police.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-034",
+    "kind": "document_extract",
+    "title": "Temporary Room.docx",
+    "path": "content/documents/temporary-room.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-035",
+    "kind": "document_extract",
+    "title": "Tornado and Severe Weather Warnings.docx",
+    "path": "content/documents/tornado-and-severe-weather-warnings.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-036",
+    "kind": "document_extract",
+    "title": "Unapproved Animal.docx",
+    "path": "content/documents/unapproved-animal.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-037",
+    "kind": "document_extract",
+    "title": "Wellness Check.docx",
+    "path": "content/documents/wellness-check.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-038",
+    "kind": "document_extract",
+    "title": "Room Condition Reports.docx",
+    "path": "content/documents/room-condition-reports.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-045",
+    "kind": "document_extract",
+    "title": "How to file maintenance and housekeeping requests.docx",
+    "path": "content/documents/maintenance-requests.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-046",
+    "kind": "document_extract",
+    "title": "Roommate Agreements.docx",
+    "path": "content/documents/roommate-agreements.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-047",
+    "kind": "document_extract",
+    "title": "Roommate Mediation Presentation.docx",
+    "path": "content/documents/roommate-mediation-presentation.md",
+    "source_id": "policies",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": [
+      "assets/roommate-mediation-presentation/image1.png",
+      "assets/roommate-mediation-presentation/image2.png",
+      "assets/roommate-mediation-presentation/image3.png",
+      "assets/roommate-mediation-presentation/image4.png",
+      "assets/roommate-mediation-presentation/image5.png",
+      "assets/roommate-mediation-presentation/image6.png",
+      "assets/roommate-mediation-presentation/image7.png",
+      "assets/roommate-mediation-presentation/image8.png",
+      "assets/roommate-mediation-presentation/image9.png",
+      "assets/roommate-mediation-presentation/image10.png",
+      "assets/roommate-mediation-presentation/image11.png",
+      "assets/roommate-mediation-presentation/image12.png",
+      "assets/roommate-mediation-presentation/image13.png",
+      "assets/roommate-mediation-presentation/image14.png",
+      "assets/roommate-mediation-presentation/image15.png",
+      "assets/roommate-mediation-presentation/image16.png"
+    ]
+  },
+  {
+    "id": "extract-doc-048",
+    "kind": "document_extract",
+    "title": "Community Standards & Living Agreements Facilitation Guide Fall 2026.docx",
+    "path": "content/documents/community-standards-living-agreements-facilitation-guide-fall-2026.md",
+    "source_id": "community-meetings",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Community-Meetings.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-049",
+    "kind": "document_extract",
+    "title": "Upperclass Floor Meeting Fall 2026.docx",
+    "path": "content/documents/upperclass-floor-meeting-fall-2026.md",
+    "source_id": "community-meetings",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Community-Meetings.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-050",
+    "kind": "document_extract",
+    "title": "Community Standards 2026 Fillable Document (download or make a copy).docx",
+    "path": "content/documents/community-standards-2026-fillable-document-download-or-make-a-copy.md",
+    "source_id": "community-meetings",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Community-Meetings.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-051",
+    "kind": "document_extract",
+    "title": "First Year Floor Meeting Agenda for 8.24.docx",
+    "path": "content/documents/first-year-floor-meeting-agenda-for-8-24.md",
+    "source_id": "community-meetings",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Community-Meetings.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-052",
+    "kind": "document_extract",
+    "title": "First Year Mini Floor Meeting Agenda- 8.14 & 8.15 1.docx",
+    "path": "content/documents/first-year-mini-floor-meeting-agenda-8-14-8-15-1.md",
+    "source_id": "community-meetings",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Community-Meetings.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "DOCX body paragraphs, tables, footnotes, and endnotes extracted; headers, footers, comments, revisions, and text in drawings are not guaranteed. Tables use pipes and slash-separated cell paragraphs.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-054",
+    "kind": "document_extract",
+    "title": "How to Use When 2 Work",
+    "path": "content/documents/schedule-browser.md",
+    "source_id": "duty",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/RA%20Duty,%20Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "Read from all rendered Word pages; master-key storage details omitted where present.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-055",
+    "kind": "document_extract",
+    "title": "Phone Expectations",
+    "path": "content/documents/phone-browser.md",
+    "source_id": "duty",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/RA%20Duty,%20Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "Read from all rendered Word pages; master-key storage details omitted where present.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-056",
+    "kind": "document_extract",
+    "title": "Northside Duty Expectations",
+    "path": "content/documents/north-browser.md",
+    "source_id": "duty",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/RA%20Duty,%20Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "Read from all rendered Word pages; master-key storage details omitted where present.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  },
+  {
+    "id": "extract-doc-057",
+    "kind": "document_extract",
+    "title": "S40 Duty Expectations",
+    "path": "content/documents/south-browser.md",
+    "source_id": "duty",
+    "source_url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/RA%20Duty,%20Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "status": "text extracted; see extraction notes",
+    "notes": [
+      "Read from all rendered Word pages; master-key storage details omitted where present.",
+      "Source typos and dated policy claims are retained. See SOURCE_NOTES.md before relying on this material."
+    ],
+    "assets": []
+  }
+]

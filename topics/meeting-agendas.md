@@ -1,9 +1,3 @@
-# Seasonal meeting agendas
-
-Source: [Meeting Agendas](https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Meeting-Agendas.aspx)  
-Observed: 2026-10-22  
-Coverage: paraphrased page guidance and resource references; not the full underlying files.
-
 ## Fall arrival and opening
 
 | Meeting | When | Responsibility and purpose |
@@ -25,3 +19,7 @@ During the first spring week, floor/building RAs provide semester updates, intro
 ## Spring closing
 
 End-of-semester meetings explain checkout preparation. Follow the current closing agenda and supervisor instructions. This repository does not invent exact meeting dates or requirements absent from the source.
+
+## Original extracted content
+
+See [the content index](../CONTENT.md) for page and document text. Earlier title-only coverage notes describe the initial summary pass; current extraction status is in data/documents.json.
