@@ -1,0 +1,47 @@
+{
+  "collected_at_utc": "2026-10-23T01:29:29+00:00",
+  "source_observation_date": "2026-10-22",
+  "site_pages_listed": 15,
+  "page_filenames_observed": [
+    "TopicHome.aspx",
+    "Bulletin-Boards-and-Door-Decorations.aspx",
+    "Branding-Guidelines-Learn-More.aspx",
+    "Meet-the-Residential-Life-Team.aspx",
+    "Campus-Resources.aspx",
+    "RA-Training-HUB.aspx",
+    "Policies-and-Procedures.aspx",
+    "All-You-Need-to-Program!.aspx",
+    "About-Being-an-RA.aspx",
+    "Meeting-Agendas.aspx",
+    "Program-Planning.aspx",
+    "Community-Meetings.aspx",
+    "Expense-Reports.aspx",
+    "RA Duty, Policies-and-Procedures.aspx",
+    "Home.aspx"
+  ],
+  "topic_pages": 14,
+  "links": 83,
+  "document_references": 57,
+  "method": "Read rendered SharePoint pages and inventories using the signed-in browser. No hidden APIs, cookies, or authentication tokens were exported.",
+  "scope": "All 15 listed Site Pages were opened, including the duplicate landing page and default SharePoint template. Useful page guidance summarized; linked document titles indexed.",
+  "not_a_complete_mirror": true,
+  "limitations": [
+    "Full DOCX/PDF/presentation/Box contents were not extracted.",
+    "Videos were not transcribed.",
+    "Document library view labeled All Documents remained filtered to Incident; no claim of a complete library inventory.",
+    "No full Teams message export.",
+    "No recursive crawl of external resource sites.",
+    "Anchor and Passive Program List links reported unavailable in the current Box session. Active Program List contents were not inspected.",
+    "Historical August calendar entries were not exported; the displayed October week had zero events."
+  ],
+  "excluded_from_publication": [
+    "access codes and access mechanics",
+    "private resident and incident records",
+    "personal contact details and staff profiles",
+    "financial account values",
+    "raw browser captures and account identity",
+    "Box shared access URLs and opaque reservation parameters",
+    "default SharePoint template copy"
+  ],
+  "notes": "Public repo contains curated summaries and authenticated source pointers. It does not grant access to the original restricted sources."
+}

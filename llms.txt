@@ -1,0 +1,28 @@
+# WashU Resident Advisor knowledge
+
+Unofficial curated summaries and source pointers. Observed 2026-10-22.
+
+## Entry points
+
+- [README](README.md): task-based navigation
+- [Coverage](data/coverage.json): completeness and exclusions
+- [Knowledge JSONL](data/knowledge.jsonl): retrieval chunks
+- [Links](data/links.json): resource destinations and access notes
+- [Documents](data/documents.json): exact reference titles, contents not extracted
+
+## Topics
+
+- [Recognition and OTM awards](topics/home.md): awards, recognition, OTM, deadline
+- [Residential Life mission and support](topics/team.md): mission, leadership, faculty
+- [RA role and communication standards](topics/about-ra.md): communication, expectations, professionalism, media, confidentiality
+- [Training, presentations, and tools](topics/training.md): training, Canvas, calendar, map
+- [Programming and community engagement](topics/programming.md): CEM, program, proposal, IC, photos
+- [Program planning reference lists](topics/program-planning.md): anchor, active, passive, program
+- [Bulletin boards and door decorations](topics/bulletin-boards.md): rubric, board, decorations, CEM
+- [Branding and departmental social media](topics/branding.md): social media, logo, marketing
+- [Community meeting expectations](topics/community-meetings.md): facilitation, floor meeting, standards
+- [Seasonal meeting agendas](topics/meeting-agendas.md): move-in, winter, spring, closing, housing selection
+- [Expense reporting resources](topics/expense-reports.md): expense, reimbursement, Workday, cost center
+- [Duty tools and expectations](topics/duty.md): duty, shift, phone, WhenToWork
+- [Policy and procedure document finder](topics/policies.md): incident, lockout, maintenance, roommate, mediation
+- [Campus resource directory](topics/campus-resources.md): support, health, academic, financial, technology

@@ -1,0 +1,362 @@
+[
+  {
+    "id": "link-018",
+    "title": "RSVP",
+    "url": "https://rsvpcenter.washu.edu/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22",
+    "category": "Mental health and wellness"
+  },
+  {
+    "id": "link-019",
+    "title": "Title IX",
+    "url": "https://titleix.wustl.edu/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22",
+    "category": "Mental health and wellness"
+  },
+  {
+    "id": "link-020",
+    "title": "Timely Care",
+    "url": "https://counseling.washu.edu/services-provided/timelycare-after-hours-support/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22",
+    "category": "Mental health and wellness"
+  },
+  {
+    "id": "link-021",
+    "title": "Student Health Center",
+    "url": "https://studenthealthcenter.washu.edu/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22",
+    "category": "Mental health and wellness"
+  },
+  {
+    "id": "link-022",
+    "title": "Uncle Joe's",
+    "url": "https://healthpromotion.washu.edu/training-opportunities/uncle-joes/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22",
+    "category": "Mental health and wellness"
+  },
+  {
+    "id": "link-023",
+    "title": "S.A.R.A.H.s",
+    "url": "https://sarah.wustl.edu/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22",
+    "category": "Mental health and wellness"
+  },
+  {
+    "id": "link-024",
+    "title": "Health Promotion Services",
+    "url": "https://healthpromotion.washu.edu/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22",
+    "category": "Mental health and wellness"
+  },
+  {
+    "id": "link-025",
+    "title": "Center for Councseling and Psychological Services (CCPS)",
+    "url": "https://counseling.washu.edu/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22",
+    "category": "Mental health and wellness"
+  },
+  {
+    "id": "link-026",
+    "title": "WashU Cares",
+    "url": "https://caresteam.washu.edu/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22",
+    "category": "Mental health and wellness"
+  },
+  {
+    "id": "link-027",
+    "title": "Personal Safety App",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Campus-Resources.aspx",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "open source page; shared/document target omitted from public export",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22",
+    "category": "Mental health and wellness"
+  },
+  {
+    "id": "link-028",
+    "title": "Bias Report & Support System",
+    "url": "https://cdi.washu.edu/support/bias-report-support-system/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22",
+    "category": "Campus engagement"
+  },
+  {
+    "id": "link-029",
+    "title": "Campus Life",
+    "url": "https://campuslife.washu.edu/get-involved/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22",
+    "category": "Campus engagement"
+  },
+  {
+    "id": "link-030",
+    "title": "Center for Career Engagement",
+    "url": "https://careers.wustl.edu/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22",
+    "category": "Campus engagement"
+  },
+  {
+    "id": "link-031",
+    "title": "Center for Diversity and Inclusion",
+    "url": "https://cdi.washu.edu/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22",
+    "category": "Campus engagement"
+  },
+  {
+    "id": "link-032",
+    "title": "Cross Cultural Connections",
+    "url": "https://crosscultural.washu.edu/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22",
+    "category": "Campus engagement"
+  },
+  {
+    "id": "link-033",
+    "title": "Gephardt Institute",
+    "url": "https://gephardtinstitute.wustl.edu/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22",
+    "category": "Campus engagement"
+  },
+  {
+    "id": "link-034",
+    "title": "Office of International Student Engagement (programming and belonging)",
+    "url": "https://internationalstudents.washu.edu/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22",
+    "category": "Campus engagement"
+  },
+  {
+    "id": "link-035",
+    "title": "Office of International Student Support (compliance and visas/documents)",
+    "url": "https://oiss.washu.edu/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22",
+    "category": "Campus engagement"
+  },
+  {
+    "id": "link-036",
+    "title": "Office for Religious, Spiritual and Ethical Life",
+    "url": "https://orsel.washu.edu/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22",
+    "category": "Campus engagement"
+  },
+  {
+    "id": "link-037",
+    "title": "Spectrum",
+    "url": "https://spectrum.washu.edu/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22",
+    "category": "Campus engagement"
+  },
+  {
+    "id": "link-038",
+    "title": "Taylor Family Center",
+    "url": "https://taylorfamilycenter.washu.edu/about/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22",
+    "category": "Campus engagement"
+  },
+  {
+    "id": "link-039",
+    "title": "Disability Resources",
+    "url": "https://disability.washu.edu/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22",
+    "category": "Academic"
+  },
+  {
+    "id": "link-040",
+    "title": "Learning Center",
+    "url": "https://ctl.wustl.edu/learningcenter/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22",
+    "category": "Academic"
+  },
+  {
+    "id": "link-041",
+    "title": "TRIO",
+    "url": "https://taylorfamilycenter.washu.edu/signature-programs/trio/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22",
+    "category": "Academic"
+  },
+  {
+    "id": "link-042",
+    "title": "Writing Center",
+    "url": "https://writingcenter.wustl.edu/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22",
+    "category": "Academic"
+  },
+  {
+    "id": "link-043",
+    "title": "Financial Aid",
+    "url": "https://financialaid.washu.edu/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22",
+    "category": "Financial"
+  },
+  {
+    "id": "link-044",
+    "title": "iGrad",
+    "url": "https://wustl.igrad.com/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22",
+    "category": "Financial"
+  },
+  {
+    "id": "link-045",
+    "title": "Student Success Fund",
+    "url": "https://taylorfamilycenter.washu.edu/financial-wellness/student-success-fund/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22",
+    "category": "Financial"
+  },
+  {
+    "id": "link-046",
+    "title": "Information Technology",
+    "url": "https://it.wustl.edu/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22",
+    "category": "Technology"
+  },
+  {
+    "id": "link-047",
+    "title": "Submit IT Request",
+    "url": "https://wustl.service-now.com/sp?id=sc_cat_item&sys_id=1ad684461b02029470f1fc451a4bcb74&sysparm_support_area=it",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22",
+    "category": "Technology"
+  }
+]

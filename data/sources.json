@@ -1,0 +1,155 @@
+[
+  {
+    "id": "topic-home",
+    "title": "WashU Resident Advisors - Home",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/TopicHome.aspx",
+    "observed_on": "2026-10-22",
+    "access": "WashU authentication may be required",
+    "coverage": "inventory/duplicate landing page",
+    "original_files_copied": false
+  },
+  {
+    "id": "template-home",
+    "title": "WashU Resident Advisors - Home",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Home.aspx",
+    "observed_on": "2026-10-22",
+    "access": "WashU authentication may be required",
+    "coverage": "template; no substantive RA material",
+    "original_files_copied": false
+  },
+  {
+    "id": "team",
+    "title": "Meet the Residential Life Team",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Meet-the-Residential-Life-Team.aspx",
+    "observed_on": "2026-10-22",
+    "access": "WashU authentication may be required",
+    "coverage": "summary and resource index",
+    "original_files_copied": false
+  },
+  {
+    "id": "training",
+    "title": "RA Training HUB",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/RA-Training-HUB.aspx",
+    "observed_on": "2026-10-22",
+    "access": "WashU authentication may be required",
+    "coverage": "summary and resource index",
+    "original_files_copied": false
+  },
+  {
+    "id": "programming",
+    "title": "All You Need to Program!",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/All-You-Need-to-Program!.aspx",
+    "observed_on": "2026-10-22",
+    "access": "WashU authentication may be required",
+    "coverage": "summary and resource index",
+    "original_files_copied": false
+  },
+  {
+    "id": "duty",
+    "title": "RA Duty, Policies, and Procedures",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/RA%20Duty,%20Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "access": "WashU authentication may be required",
+    "coverage": "summary and resource index",
+    "original_files_copied": false
+  },
+  {
+    "id": "campus-resources",
+    "title": "Campus Resources",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Campus-Resources.aspx",
+    "observed_on": "2026-10-22",
+    "access": "WashU authentication may be required",
+    "coverage": "inventory/duplicate landing page",
+    "original_files_copied": false
+  },
+  {
+    "id": "about-ra",
+    "title": "About Being an RA",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/About-Being-an-RA.aspx",
+    "observed_on": "2026-10-22",
+    "access": "WashU authentication may be required",
+    "coverage": "summary and resource index",
+    "original_files_copied": false
+  },
+  {
+    "id": "bulletin-boards",
+    "title": "Bulletin Boards and Door Decorations",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Bulletin-Boards-and-Door-Decorations.aspx",
+    "observed_on": "2026-10-22",
+    "access": "WashU authentication may be required",
+    "coverage": "summary and resource index",
+    "original_files_copied": false
+  },
+  {
+    "id": "branding",
+    "title": "Branding Guidelines Learn More",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Branding-Guidelines-Learn-More.aspx",
+    "observed_on": "2026-10-22",
+    "access": "WashU authentication may be required",
+    "coverage": "summary and resource index",
+    "original_files_copied": false
+  },
+  {
+    "id": "program-planning",
+    "title": "Program Planning",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Program-Planning.aspx",
+    "observed_on": "2026-10-22",
+    "access": "WashU authentication may be required",
+    "coverage": "summary and resource index",
+    "original_files_copied": false
+  },
+  {
+    "id": "community-meetings",
+    "title": "Community Meetings",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Community-Meetings.aspx",
+    "observed_on": "2026-10-22",
+    "access": "WashU authentication may be required",
+    "coverage": "summary and resource index",
+    "original_files_copied": false
+  },
+  {
+    "id": "meeting-agendas",
+    "title": "Meeting Agendas",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Meeting-Agendas.aspx",
+    "observed_on": "2026-10-22",
+    "access": "WashU authentication may be required",
+    "coverage": "summary and resource index",
+    "original_files_copied": false
+  },
+  {
+    "id": "expense-reports",
+    "title": "Expense Reports",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Expense-Reports.aspx",
+    "observed_on": "2026-10-22",
+    "access": "WashU authentication may be required",
+    "coverage": "summary and resource index",
+    "original_files_copied": false
+  },
+  {
+    "id": "policies",
+    "title": "Policies and Procedures",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "observed_on": "2026-10-22",
+    "access": "WashU authentication may be required",
+    "coverage": "summary and resource index",
+    "original_files_copied": false
+  },
+  {
+    "id": "documents",
+    "title": "WashU Resident Advisors - Documents - All Documents",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/Shared%20Documents/Forms/Meeting%20Agendas.aspx",
+    "observed_on": "2026-10-22",
+    "access": "WashU authentication may be required",
+    "coverage": "inventory/duplicate landing page",
+    "original_files_copied": false
+  },
+  {
+    "id": "home",
+    "title": "RA home",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors",
+    "observed_on": "2026-10-22",
+    "access": "WashU authentication may be required",
+    "coverage": "same OTM content as TopicHome; summarized",
+    "original_files_copied": false
+  }
+]

@@ -1,0 +1,915 @@
+[
+  {
+    "id": "link-001",
+    "title": "Submit an OTM",
+    "url": "https://otms.nrhh.org/submit",
+    "source_ids": [
+      "home"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-002",
+    "title": "View training presentations",
+    "url": "https://wustl.instructure.com/",
+    "source_ids": [
+      "training"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-003",
+    "title": "Expense Reports",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Expense-Reports.aspx",
+    "source_ids": [
+      "training"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-004",
+    "title": "Campus Map",
+    "url": "https://www.arcgis.com/apps/webappviewer/index.html?id=1d935c37546d408ea95e02f9793ef0f8",
+    "source_ids": [
+      "training"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-005",
+    "title": "See full list",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/Lists/August%202026%20Schedule?viewid=0edf40d5-359a-4b6f-ae6e-7950ce5daaae",
+    "source_ids": [
+      "training"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-006",
+    "title": "RA CEM Folder",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/All-You-Need-to-Program!.aspx",
+    "source_ids": [
+      "programming"
+    ],
+    "access": "open source page; shared/document target omitted from public export",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-007",
+    "title": "SATools - ICs and Program Proposal",
+    "url": "https://satools.wustl.edu/",
+    "source_ids": [
+      "programming"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-008",
+    "title": "Program Summary Form",
+    "url": "https://satools.wustl.edu/survey/?survey=jt7615ojkzmhtxo32x3f8ms3recub",
+    "source_ids": [
+      "programming"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-009",
+    "title": "Reserve A Space",
+    "url": "https://reserve.wustl.edu/EmsWebApp/Default.aspx",
+    "source_ids": [
+      "programming"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-010",
+    "title": "Upload Photos from Programs",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/All-You-Need-to-Program!.aspx",
+    "source_ids": [
+      "programming"
+    ],
+    "access": "open source page; shared/document target omitted from public export",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-011",
+    "title": "When are my Duty Shifts",
+    "url": "http://whentowork.com/",
+    "source_ids": [
+      "duty"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-012",
+    "title": "RA Duty Form",
+    "url": "https://wustl.az1.qualtrics.com/jfe/form/SV_0p0sNkzlqRgnIlo",
+    "source_ids": [
+      "duty"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-013",
+    "title": "Student Affairs Tools",
+    "url": "https://satools.wustl.edu/",
+    "source_ids": [
+      "duty"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-014",
+    "title": "Incident Report Form",
+    "url": "https://cm.maxient.com/reportingform.php?WashUniv=&layout_id=75",
+    "source_ids": [
+      "duty"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-015",
+    "title": "Housekeeping Request Form",
+    "url": "https://reslife.washu.edu/policies-procedures/forms/housekeeping-request-form/",
+    "source_ids": [
+      "duty"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-016",
+    "title": "Maintenance Request Form",
+    "url": "https://reslife.washu.edu/policies-procedures/forms/maintenance-request-form/",
+    "source_ids": [
+      "duty"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-017",
+    "title": "Emergency Bag Locations",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/RA%20Duty,%20Policies-and-Procedures.aspx",
+    "source_ids": [
+      "duty"
+    ],
+    "access": "open source page; shared/document target omitted from public export",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-018",
+    "title": "RSVP",
+    "url": "https://rsvpcenter.washu.edu/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-019",
+    "title": "Title IX",
+    "url": "https://titleix.wustl.edu/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-020",
+    "title": "Timely Care",
+    "url": "https://counseling.washu.edu/services-provided/timelycare-after-hours-support/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-021",
+    "title": "Student Health Center",
+    "url": "https://studenthealthcenter.washu.edu/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-022",
+    "title": "Uncle Joe's",
+    "url": "https://healthpromotion.washu.edu/training-opportunities/uncle-joes/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-023",
+    "title": "S.A.R.A.H.s",
+    "url": "https://sarah.wustl.edu/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-024",
+    "title": "Health Promotion Services",
+    "url": "https://healthpromotion.washu.edu/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-025",
+    "title": "Center for Councseling and Psychological Services (CCPS)",
+    "url": "https://counseling.washu.edu/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-026",
+    "title": "WashU Cares",
+    "url": "https://caresteam.washu.edu/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-027",
+    "title": "Personal Safety App",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Campus-Resources.aspx",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "open source page; shared/document target omitted from public export",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-028",
+    "title": "Bias Report & Support System",
+    "url": "https://cdi.washu.edu/support/bias-report-support-system/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-029",
+    "title": "Campus Life",
+    "url": "https://campuslife.washu.edu/get-involved/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-030",
+    "title": "Center for Career Engagement",
+    "url": "https://careers.wustl.edu/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-031",
+    "title": "Center for Diversity and Inclusion",
+    "url": "https://cdi.washu.edu/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-032",
+    "title": "Cross Cultural Connections",
+    "url": "https://crosscultural.washu.edu/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-033",
+    "title": "Gephardt Institute",
+    "url": "https://gephardtinstitute.wustl.edu/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-034",
+    "title": "Office of International Student Engagement (programming and belonging)",
+    "url": "https://internationalstudents.washu.edu/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-035",
+    "title": "Office of International Student Support (compliance and visas/documents)",
+    "url": "https://oiss.washu.edu/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-036",
+    "title": "Office for Religious, Spiritual and Ethical Life",
+    "url": "https://orsel.washu.edu/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-037",
+    "title": "Spectrum",
+    "url": "https://spectrum.washu.edu/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-038",
+    "title": "Taylor Family Center",
+    "url": "https://taylorfamilycenter.washu.edu/about/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-039",
+    "title": "Disability Resources",
+    "url": "https://disability.washu.edu/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-040",
+    "title": "Learning Center",
+    "url": "https://ctl.wustl.edu/learningcenter/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-041",
+    "title": "TRIO",
+    "url": "https://taylorfamilycenter.washu.edu/signature-programs/trio/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-042",
+    "title": "Writing Center",
+    "url": "https://writingcenter.wustl.edu/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-043",
+    "title": "Financial Aid",
+    "url": "https://financialaid.washu.edu/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-044",
+    "title": "iGrad",
+    "url": "https://wustl.igrad.com/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-045",
+    "title": "Student Success Fund",
+    "url": "https://taylorfamilycenter.washu.edu/financial-wellness/student-success-fund/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-046",
+    "title": "Information Technology",
+    "url": "https://it.wustl.edu/",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-047",
+    "title": "Submit IT Request",
+    "url": "https://wustl.service-now.com/sp?id=sc_cat_item&sys_id=1ad684461b02029470f1fc451a4bcb74&sysparm_support_area=it",
+    "source_ids": [
+      "campus-resources"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-048",
+    "title": "Upload A Picture Of Your Bulletin Board HERE",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Bulletin-Boards-and-Door-Decorations.aspx",
+    "source_ids": [
+      "bulletin-boards"
+    ],
+    "access": "open source page; shared/document target omitted from public export",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-049",
+    "title": "Fall Welcome Board",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Bulletin-Boards-and-Door-Decorations.aspx",
+    "source_ids": [
+      "bulletin-boards"
+    ],
+    "access": "open source page; shared/document target omitted from public export",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-050",
+    "title": "Campus Partner Bulletin Board Resources",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Bulletin-Boards-and-Door-Decorations.aspx",
+    "source_ids": [
+      "bulletin-boards"
+    ],
+    "access": "open source page; shared/document target omitted from public export",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-051",
+    "title": "Winter Transition Board",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Bulletin-Boards-and-Door-Decorations.aspx",
+    "source_ids": [
+      "bulletin-boards"
+    ],
+    "access": "open source page; shared/document target omitted from public export",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-052",
+    "title": "Spring Closing Board",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Bulletin-Boards-and-Door-Decorations.aspx",
+    "source_ids": [
+      "bulletin-boards"
+    ],
+    "access": "open source page; shared/document target omitted from public export",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-053",
+    "title": "WashU Logo for Program Flyers",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Branding-Guidelines-Learn-More.aspx",
+    "source_ids": [
+      "branding"
+    ],
+    "access": "open source page; shared/document target omitted from public export",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-054",
+    "title": "Logo Usage Guidelines",
+    "url": "https://marcomm.washu.edu/official-logo-usage-guide/",
+    "source_ids": [
+      "branding"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-055",
+    "title": "University Marketing Guidelines",
+    "url": "https://marcomm.washu.edu/brand-guides/",
+    "source_ids": [
+      "branding"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-056",
+    "title": "See full library",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Community-Meetings.aspx",
+    "source_ids": [
+      "community-meetings"
+    ],
+    "access": "open source page; shared/document target omitted from public export",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-057",
+    "title": "Meeting Agendas — linked reference 1",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Meeting-Agendas.aspx",
+    "source_ids": [
+      "meeting-agendas"
+    ],
+    "access": "open source page; shared/document target omitted from public export",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-058",
+    "title": "Meeting Agendas — linked reference 2",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Meeting-Agendas.aspx",
+    "source_ids": [
+      "meeting-agendas"
+    ],
+    "access": "open source page; shared/document target omitted from public export",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-059",
+    "title": "Meeting Agendas — linked reference 3",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Meeting-Agendas.aspx",
+    "source_ids": [
+      "meeting-agendas"
+    ],
+    "access": "open source page; shared/document target omitted from public export",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-060",
+    "title": "Meeting Agendas — linked reference 4",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Meeting-Agendas.aspx",
+    "source_ids": [
+      "meeting-agendas"
+    ],
+    "access": "open source page; shared/document target omitted from public export",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-061",
+    "title": "Meeting Agendas — linked reference 5",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Meeting-Agendas.aspx",
+    "source_ids": [
+      "meeting-agendas"
+    ],
+    "access": "open source page; shared/document target omitted from public export",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-062",
+    "title": "Meeting Agendas — linked reference 6",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Meeting-Agendas.aspx",
+    "source_ids": [
+      "meeting-agendas"
+    ],
+    "access": "open source page; shared/document target omitted from public export",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-063",
+    "title": "Meeting Agendas — linked reference 7",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Meeting-Agendas.aspx",
+    "source_ids": [
+      "meeting-agendas"
+    ],
+    "access": "open source page; shared/document target omitted from public export",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-064",
+    "title": "Meeting Agendas — linked reference 8",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Meeting-Agendas.aspx",
+    "source_ids": [
+      "meeting-agendas"
+    ],
+    "access": "open source page; shared/document target omitted from public export",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-065",
+    "title": "Meeting Agendas — linked reference 9",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Meeting-Agendas.aspx",
+    "source_ids": [
+      "meeting-agendas"
+    ],
+    "access": "open source page; shared/document target omitted from public export",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-066",
+    "title": "Watch Now!",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Expense-Reports.aspx",
+    "source_ids": [
+      "expense-reports"
+    ],
+    "access": "open source page; shared/document target omitted from public export",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-067",
+    "title": "See full library",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "source_ids": [
+      "policies"
+    ],
+    "access": "open source page; shared/document target omitted from public export",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-068",
+    "title": "AED Locations",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "source_ids": [
+      "policies"
+    ],
+    "access": "open source page; shared/document target omitted from public export",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-069",
+    "title": "Emergency Bag Locations",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "source_ids": [
+      "policies"
+    ],
+    "access": "open source page; shared/document target omitted from public export",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-070",
+    "title": "Incident Report",
+    "url": "https://cm.maxient.com/washu",
+    "source_ids": [
+      "policies"
+    ],
+    "access": "destination may require institutional login; destination contents not verified",
+    "verification": "observed on source page; not a live destination check",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-071",
+    "title": "Recognition and OTM awards",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors",
+    "source_ids": [
+      "home"
+    ],
+    "access": "WashU login may be required",
+    "verification": "page opened and reviewed",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-072",
+    "title": "Residential Life mission and support",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Meet-the-Residential-Life-Team.aspx",
+    "source_ids": [
+      "team"
+    ],
+    "access": "WashU login may be required",
+    "verification": "page opened and reviewed",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-073",
+    "title": "RA role and communication standards",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/About-Being-an-RA.aspx",
+    "source_ids": [
+      "about-ra"
+    ],
+    "access": "WashU login may be required",
+    "verification": "page opened and reviewed",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-074",
+    "title": "Training, presentations, and tools",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/RA-Training-HUB.aspx",
+    "source_ids": [
+      "training"
+    ],
+    "access": "WashU login may be required",
+    "verification": "page opened and reviewed",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-075",
+    "title": "Programming and community engagement",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/All-You-Need-to-Program!.aspx",
+    "source_ids": [
+      "programming"
+    ],
+    "access": "WashU login may be required",
+    "verification": "page opened and reviewed",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-076",
+    "title": "Program planning reference lists",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Program-Planning.aspx",
+    "source_ids": [
+      "program-planning"
+    ],
+    "access": "WashU login may be required",
+    "verification": "page opened and reviewed",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-077",
+    "title": "Bulletin boards and door decorations",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Bulletin-Boards-and-Door-Decorations.aspx",
+    "source_ids": [
+      "bulletin-boards"
+    ],
+    "access": "WashU login may be required",
+    "verification": "page opened and reviewed",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-078",
+    "title": "Branding and departmental social media",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Branding-Guidelines-Learn-More.aspx",
+    "source_ids": [
+      "branding"
+    ],
+    "access": "WashU login may be required",
+    "verification": "page opened and reviewed",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-079",
+    "title": "Community meeting expectations",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Community-Meetings.aspx",
+    "source_ids": [
+      "community-meetings"
+    ],
+    "access": "WashU login may be required",
+    "verification": "page opened and reviewed",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-080",
+    "title": "Seasonal meeting agendas",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Meeting-Agendas.aspx",
+    "source_ids": [
+      "meeting-agendas"
+    ],
+    "access": "WashU login may be required",
+    "verification": "page opened and reviewed",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-081",
+    "title": "Expense reporting resources",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Expense-Reports.aspx",
+    "source_ids": [
+      "expense-reports"
+    ],
+    "access": "WashU login may be required",
+    "verification": "page opened and reviewed",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-082",
+    "title": "Duty tools and expectations",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/RA%20Duty,%20Policies-and-Procedures.aspx",
+    "source_ids": [
+      "duty"
+    ],
+    "access": "WashU login may be required",
+    "verification": "page opened and reviewed",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "link-083",
+    "title": "Policy and procedure document finder",
+    "url": "https://gowustl.sharepoint.com/sites/WashUResidentAdvisors/SitePages/Policies-and-Procedures.aspx",
+    "source_ids": [
+      "policies"
+    ],
+    "access": "WashU login may be required",
+    "verification": "page opened and reviewed",
+    "observed_on": "2026-10-22"
+  }
+]
